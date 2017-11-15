@@ -13,4 +13,5 @@ Keyword :
 - Kick all = Buat mulai ngekick member satu per satu
 - Tag all = Tag semua member ( Beta )
 
-Created By MKHADAFFY
+Created By Alish Joker 
+T.me/alish_joker
